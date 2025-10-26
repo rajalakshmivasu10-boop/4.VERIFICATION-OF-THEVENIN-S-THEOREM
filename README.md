@@ -35,18 +35,22 @@ It is the look-back resistance across the load terminals when all the sources ar
 **CIRCUIT DIAGRAM: VERIFICATION OF THEVENIN’S THEOREM**
 
 To measure IL
+<img width="665" height="253" alt="image" src="https://github.com/user-attachments/assets/7d45fc9a-e886-4bf1-8d67-623cb17de224" />
 
 <img width="469" height="143" alt="image" src="https://github.com/user-attachments/assets/a89d6d2b-c628-434d-961f-3ae03e200d8e" />
 
 To measure RTh or RN
+<img width="226" height="423" alt="image" src="https://github.com/user-attachments/assets/32528231-4629-4ca8-ad8b-90f2aa891331" />
 
 <img width="360" height="139" alt="image" src="https://github.com/user-attachments/assets/4a0cd230-205b-48ad-ab08-f359aaf192a6" />
 
 To measure VTh or Voc
+<img width="203" height="464" alt="image" src="https://github.com/user-attachments/assets/3a409a3a-8159-4279-8d74-f80550b8325a" />
 
 <img width="452" height="142" alt="image" src="https://github.com/user-attachments/assets/b0bb48a9-90fe-4979-a3fe-4e41c67239ce" />
 
 Thevenin’s equivalent circuit
+<img width="159" height="283" alt="image" src="https://github.com/user-attachments/assets/c80e4605-79c0-4aea-a1f0-37c29b6332c4" />
 
 <img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
 
